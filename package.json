@@ -1,0 +1,27 @@
+{
+  "name": "lending_page_first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vector-Kolesnikoff/lending_page_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vector-Kolesnikoff/lending_page_tutorial/issues"
+  },
+  "homepage": "https://github.com/Vector-Kolesnikoff/lending_page_tutorial#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
